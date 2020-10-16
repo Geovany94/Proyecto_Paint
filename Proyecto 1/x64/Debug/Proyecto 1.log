@@ -1,0 +1,7 @@
+﻿  Herramientas.cpp
+  Lienzo.cpp
+  Menu.cpp
+  Source.cpp
+C:\Users\Canna\Desktop\Universidad\Progra\Programación Avanzada\Proyecto 1\Proyecto 1\Source.cpp(16,16): warning C4101: 'tabla': variable local sin referencia
+  Generando código...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: tipo de equipo del módulo 'x86' en conflicto con tipo de equipo de destino 'x64'
